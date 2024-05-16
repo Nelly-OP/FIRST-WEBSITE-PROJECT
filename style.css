@@ -358,7 +358,7 @@
     background-image: linear-gradient( to top, rgb(198, 14, 211)0%, rgb(3, 204, 204) 78% 100%);
     background-size: 100%;
     margin-bottom: 0.5rem;
-    font-size: 2.5rem;
+    font-size: 3.5rem;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -395,18 +395,6 @@
     text-align: center;
 }
 
-.toys__logo h1 {
-    background-color: blue;
-    background-image: linear-gradient( to top, rgb(198, 14, 211)0%, rgb(3, 204, 204) 78% 100%);
-    background-size: 100%;
-    margin-bottom: 5rem;
-    font-size: 3.5rem;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-}
-
 .toys__logo--container {
     display: flex;
     justify-content: center;
@@ -419,7 +407,7 @@
     }
 
     .about__us h1 {
-        font-size: 2rem;
+        font-size: 2.5rem;
         margin-top: 3rem;
     }
 }
@@ -430,7 +418,7 @@
     }
 
     .about__us h1 {
-        font-size: 2rem;
+        font-size: 2.5rem;
         margin-top: 3rem;
     }
 }
@@ -463,9 +451,9 @@
 }
 
 .services__card {
-    margin: 0.5rem;
-    height: 525px;
-    width: 390px;
+    margin: 2rem;
+    height: 490px;
+    width: 330px;
     border-radius: 4px;
     background-image: linear-gradient(
         to bottom,
@@ -505,7 +493,7 @@ url("images/pic3.jpg");
     border-radius: 4px;
     background: blue;
     position: absolute;
-    top: 440px;
+    top: 400px;
     left: 30px;
     font-size: 1rem;
     cursor: pointer;
